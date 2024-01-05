@@ -1,10 +1,8 @@
 # Lending-Club-Data-Analysis
-DSC 520 Final Project Fall 2023
+Data Source : https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv
 
 Analyzing Loan and Borrowing Performance: A Multifaceted Approach
-Parag Khandelwal
-University of Massachusetts Dartmouth
-pkhandelwal@umassd.edu
+
 
 Abstract:
 
